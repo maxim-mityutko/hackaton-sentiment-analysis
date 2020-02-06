@@ -1,7 +1,8 @@
-# hackaton-sentiment-analysis
+# Hackaton - Sentiment Analysis
 
 ## Collect or stream Tweets
 How to connect to Twitter: [Twitter API](https://developer.twitter.com/en/docs)
+
 Scripts for batch download of tweets: [GIT - search-tweets-python](https://github.com/twitterdev/search-tweets-python) and example config:
 ```yaml
 search_tweets_api:
