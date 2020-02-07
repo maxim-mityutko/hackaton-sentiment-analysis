@@ -15,6 +15,7 @@ search_tweets_api:
 Bash command to download the tweets:
 ```
  search_tweets.py --max-results 1500 --results-per-call 100 --filter-rule "lang:en #superrep #nike" --filename-prefix superrep --print-stream --credential-file config.yaml
+```
 
 ## AWS Lambda
 Download external libraries into lambda function folder for deployment via zip file
